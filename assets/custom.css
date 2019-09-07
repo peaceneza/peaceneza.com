@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5 {
 
 /* Top Banner */
 .banner {
-  background-image: url(/assets/banner-cropped.png);
+  background-image: url(/assets/banner.jpg);
   background-size: cover;
   position: relative;
   height: 500px;
